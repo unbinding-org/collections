@@ -1,0 +1,606 @@
+-
+  id: panca-sila
+  label: The Five Training Rules
+
+  formula:
+    - I voluntarily undertake the education to refrain from hurting and harming other living beings
+    - I voluntarily undertake the education to refrain from
+    - I voluntarily undertake the education to refrain from
+    - I voluntarily undertake the education to refrain from
+    - I voluntarily undertake the education to refrain from
+
+  skos:broader:
+    - Virtue (sila)
+  skos:related:
+    - Grasping at precepts and practices (silabbata-paramasa)
+
+-
+  id: samadhi
+  label: Concentration
+  variants:
+    - samadhi (indriya) # Five faculties
+    - samadhi (bojjhaṅga) # Factor for Awakening
+    - samma samadhi (magga) # Eightfold Path
+
+  related:
+    - nīvaraṇa # Hindrances to concentration
+
+-
+  id: paññā
+  label: Discernment
+
+-
+  id: anupubbī-kathā
+  label: Gradual Instructions
+
+  formula:
+    - Generosity (dana) # gift, giving, offering, without expecting anything in return, immediate joys of generosity
+    - Virtue (sila) # immediate joys of virtue followed by  in line with the principle of kamma
+    - Heaven (sagga) # the longer-term sensual rewards of these qualities,
+    - Drawbacks (adinava) # the ultimate drawbacks of those sensual rewards;
+    - Renunciation (nekkhamma) # the benefits of renunciation
+    - Noble Truth (ariya-sacca)
+
+-
+  id: dhana
+  label: Treasures
+  comment: Qualities that serve as 'capital' in the quest for liberation
+
+  formula:
+    - Conviction (saddhā)
+    - Virtue (sīla)
+    - Conscience & Concern (hiri-ottappa)
+    - Learning (suta)
+    - Generosity (dāna)
+    - Discernment (paññā)
+
+-
+  id: sikkhā
+  label: Threefold Training
+
+  formula:
+    - Virtue (sila)
+    - Concentration (samadhi)
+    - Discernment (panna)
+
+-
+  id: pāramī
+  label: Perfections of Character
+
+  formula:
+    - Generosity (dāna)
+    - Virtue (sīla)
+    - Renunciation (nekkhamma)
+    - Discernment (paññā)
+    - Energy/Persistence (viriya)
+    - Patience/Forbearance (khanti)
+    - Truthfulness (sacca)
+    - Determination (adhiṭṭhāna)
+    - Loving Kindness (mettā)
+    - Equanimity (upekkhā)
+
+-
+  id: indriya
+  label: Five Faculties
+
+  formula:
+    - Conviction (saddha)
+    - Persistence (viriya)
+    - Mindfulness (sati)
+    - Concentration (samādhi)
+    - Discernment (pañña)
+
+-
+  id: bojjhaṅga
+  label: seven factors for Awakening
+
+  formula:
+    - Mindfulness (sati-sambojjhaṅga)
+    - Analysis of qualities (dhamma-vicaya-sambojjhaṅga)
+    - Persistence (viriya-sambojjhaṅga)
+    - Rapture (pīti-sambojjhaṅga)
+    - Serenity (passaddhi-sambojjhaṅga)
+    - Concentration (samādhi-sambojjhaṅga)
+    - Equanimity (upekkhā-sambojjhaṅga)
+
+-
+  id: magga
+  label: The Path
+
+  formula:
+    - Right View
+    - Right Intention
+    - Right Speech
+    - Right Action
+    - Right Livelihood
+    - Right Effort
+    - Right Mindfulness
+    - Right Concentration
+
+-
+  id: nīvaraṇa
+  label: Hindrances to Concentration
+
+  formula:
+    - sensual desire
+    - ill will
+    - sloth & drowsiness
+    - restlessness & anxiety
+    - uncertainty, doubt
+
+-
+  id: satipaṭṭhāna
+  label: The Frames of Reference
+  comment:
+    and activities taking them as a frame of reference.
+    make a focused investigation of the truth of the object within that frame
+
+  formula:
+    - body (kāya)
+    - feelings (vedana)
+    - mind (citta)
+    - mental events (dhamma)
+
+-
+  id: sammappadhāna
+  label: The Right Exertions
+
+  formula:
+    - non-arising (anuppādāya) unskillful qualities
+    - abandoning (pahānāya) unskillful qualities
+    - arising (uppādāya) skillful qualities
+    - maintenance (ṭhitiyā) skillful qualities
+
+  related:
+    - Right Effort
+    - Faculty of Persistence
+
+-
+  id: iddhipāda
+  label: Bases of Power
+
+  formula:
+    - concentration of desire (chanda-samādhi)
+    - concentration of persistence (viriya-samādhi)
+    - concentration of intent (citta-samādhi)
+    - concentration of discrimination (vimamsa-samādhi)
+
+-
+  id: bodhi-pakkhiya-dhammā
+  label: Wings to Awakening
+
+  formula:
+    - four frames of reference (satipaṭṭhāna)
+    - four right exertions (sammappadhāna)
+    - four bases of success (iddhipāda)
+    - five faculties (indriya)
+    - five strengths (bala)
+    - seven factors for Awakening (bojjhaṅga)
+    - the eightfold path (magga)
+
+-
+  id: brahma-vihāra
+  label: Divine Abodes
+
+  formula:
+    - Loving Kindness (mettā)
+    - Compassion (karuṇā)
+    - Sympathetic Joy (muditā)
+    - Equanimity (upekkhā)
+
+-
+  id: ti-lakkhaṇa
+  label: Three Characteristics # of conditioned phenomena
+
+  formula:
+    - Impermanence (anicca)
+    - Suffering (dukkha)
+    - Not Anyone's (anattā)
+
+-
+  id: kilesa
+  label: Defilement
+
+  formula:
+    - greed, desire (lobha)
+    - aversion (dosa) # hatred, ill-will
+    - delusion, confusion (moha)
+
+-
+  id: ariya-sacca
+  label: Noble Truth
+
+  formula:
+    - Suffering (dukkha)
+    - Craving (tanha)           # Cause of Suffering (dukkha samudayo)
+    - Liberation (nibbana)      # Cessation (nirodho)
+    - The Path (ariya-magga)
+
+-
+  id: upādāna-khandha
+  label: heaps
+
+  formula:
+    - Physical Phenomenon (rūpa)
+    - Feeling (vedanā)
+    - Perception (saññā)
+    - Fabrication (saṅkhāra)
+    - Consciousness (viññāṇa)
+
+-
+  id: paṭicca-samuppāda
+  label: Dependant Origination
+
+  formula:
+    - Ignorance (avijjā)
+    - Fabrication (saṅkhāra)
+    - Consciousness (viññāṇa)
+    - Name and Form (nāmarūpa)
+    - Six sense medium (saḷāyatana)
+    - Contact (phassa)
+    - Feeling (vedanā)
+    - Craving (taṇhā)
+    - Clinging (upādāna)
+    - Becoming (bhava)
+    - Birth (jāti)
+
+-
+  id: ariya-sangha
+  label: Community of Noble Ones
+
+  formula:
+    - Stream-winner (sotāpanna)
+    - Once-returner (sakadāgāmī)
+    - Non-returner (anāgāmī)
+    - Worthy one, pure one (arahant)
+
+-
+  id: sila
+  label: Virtue
+  variants:
+    - sila (sikkhā) # Threefold training
+    - sila (dhana) # Treasure
+    - sila (pāramī) # Perfections of character
+    - sila (sallekha-dhamma) # Topics of effacement
+    - sila (anupubbī-kathā) # Gradual instruction
+
+-
+  id: dhamma
+  label: The Wisdom of Nature
+  comment:
+    attributes of the dhamma
+      Svakkhato: well expounded by the Blessed One
+      Sanditthiko: Apparent here and now
+      Akāliko: Timeless
+      Ehipassiko: Encouraging investigation, "come and see"
+      Opanayiko: Leading inwards
+      Paccattam Veditabbo Vinnuhi: To be experienced by the wise.
+
+  skos:related:
+    - dhamma (event; a phenomenon in and of itself)
+    - dhamma (mental quality)
+    - Dhamma (doctrine, teaching)
+
+-
+  id: kalyāṇamitta
+  label: Admirable Friend # or mentor or teacher of wisdom
+
+-
+  id: idappaccayatā
+  label: This/that conditionality
+  comment:
+    - When this is, that is
+    - From the arising of this comes the arising of that
+    - When this isn't, that isn't
+    - From the stopping of this comes the stopping of that
+
+    http://www.accesstoinsight.org/lib/authors/thanissaro/refuge.html#ida
+
+-
+  id: sammā-diṭṭhi
+  label: Right View
+  comment:
+    there is merit in generosity
+    that the moral qualities of good and bad are inherent in the universe, and not simply social conventions;
+    that there is life after death;
+    one has a true moral debt to one's parents;
+    that there are people who have lived the renunciate's life properly in such a way that they have gained true and direct knowledge of these matters.
+
+-
+  id: sammā-saṅkappa
+  label: Right Intention
+  comment:
+
+-
+  id: sammā-vācā
+  label: Right Speech
+  comment:
+    sallekha-dhamma (Topics of Effacement)
+      - Having few wants
+      - Being content with what one has
+      - Seclusion
+      - Uninvolvement in companionship
+      - Persistence
+      - Virtue (sīla)
+      - Concentration
+      - Discernment
+      - Release
+      - The direct knowing and seeing of release
+
+-
+  id: sammā-kammanta
+  label: Right Action
+  comment:
+
+-
+  id: sammā-ājīva
+  label: Right Livelihood
+  comment:
+
+-
+  id: sammā-vāyāma
+  label: Right Effort
+  comment:
+
+-
+  id: sammā-sati
+  label: Right Mindfulness
+  comment:
+
+-
+  id: sammā-samādhi
+  label: Right Concentration
+  comment: centering the mind
+
+
+-
+  id: jhana
+  label: Mental Absorptions
+  comment:
+    upekkhā: equanimity
+    vicāra: sustained attention
+    vitakka: directed thought
+    pīti: rapture, bliss
+    sukha: ease, satisfaction, comfort
+
+-
+  id: kāya
+  label: Body
+  comment:
+    - the inner body, with outer bodies, or with the body in and of itself
+    - a matter of the four properties
+    - You didn't bring it with you when you came, and can't take it with you when you go.
+      When you die, you'll have to throw it away like an old log or a piece of kindling.
+      There's nothing of any substance or worth to it at all.
+    - 32 parts
+    - loathsomeness
+    - in-out breath
+    - 4 properties
+    - old age, illness, and death
+
+-
+  id: vedana
+  label: feelings
+  comment:
+    - inner (mood),
+    - outer (pleasure/displeasure arising from contact with external sense media),
+    - good, bad, neutral
+
+-
+  id: citta
+  label: Mind
+  comment:
+    (vi)Rāga ((non)desiring), (a)dosa ((non)irritated), (a)moha ((not)cloudy/murky/confused)
+
+-
+  id: mettā
+  label: Loving Kindness
+
+-
+  id: karuṇā
+  label: Compassion
+
+-
+  id: muditā
+  label: Sympathetic Joy
+
+-
+  id: upekkhā
+  label: Equanimity
+
+-
+  id: yoniso manasikara
+  label: appropriate attention
+
+-
+  id: anicca
+  label: Impermanence
+  comment:  impermanent, inconstant, unsteady
+
+-
+  id: dukkha
+  label: Suffering
+  comment:
+    - samsara
+
+-
+  id: samsara
+  label: The Round # (of Rebirth)
+
+-
+  id: anattā
+  label: Not Anyone's
+  comment: It's not you, yours, or anyone else's.
+
+-
+  id: kamma
+  label: Intentional Action
+  comment:
+    the efficacy of action, the importance of intention, and the existence of choice
+    skillfull action (akusala kamma) # unwholesome, demeritorious
+    unskillful action (kusala kamma) # wholesome
+
+-
+  id: dhātu
+  label: Element
+  comment:
+    earth (solidity)
+    water (liquidity)
+    wind (motion)
+    fire (heat)
+
+
+-
+  id: taṇhā
+  label: Craving
+  comment:
+    - sense stimulations
+    - becoming
+    - not becoming
+
+-
+  id: bhavana
+  label: Meditation
+  comment:
+    develop mental qualities. mental cultivation or development.
+
+    techniques
+      - body sweep
+      - breath
+      - kasina
+      - loathsomeness
+      - mental noting
+      - mindfulness of death
+      - parts of the body
+      - walking (caṅkama)
+
+-
+  id: nibbana
+  label: Liberation
+
+-
+  id: saññā
+  label: Perception
+
+-
+  id: avijjā
+  label: Ignorance
+
+-
+  id: saṅkhāra
+  label: Fabrication
+
+-
+  id: viññāṇa
+  label: Consciousness
+
+-
+  id: nāmarūpa
+  label: Name and Form
+
+-
+  id: rūpa
+  label: Physical Phenomenon
+
+-
+  id: saḷāyatana
+  label: Sense Media
+
+-
+  id: phassa
+  label: Contact
+
+-
+  id: upādāna
+  label: Clinging # fuel, attachment to
+  comment:
+    sensuality
+    views
+    precepts and practices
+    theories of the self
+
+-
+  id: bhava
+  label: Becoming
+
+-
+  id: jāti
+  label: Birth
+
+-
+  id: dana
+  label: Generosity
+
+-
+  id: sagga
+  label: Heavens
+
+-
+  id: adinava
+  label: Drawbacks
+
+-
+  id: nekkhamma
+  label: Renunciation
+
+-
+  id: ariya-sacca
+  label: Noble Truth
+
+-
+  id: saddhā
+  label: Conviction
+
+-
+  id: hiri-ottappa
+  label: Conscience & Concern
+
+-
+  id: suta
+  label: Learning
+
+-
+  id: viriya
+  label: Energy/Persistence
+
+-
+  id: khanti
+  label: Patience/Forbearance
+
+-
+  id: adhiṭṭhāna
+  label: Determination
+
+-
+  id: sacca
+  label: Truthfulness/Honesty
+
+-
+  id: sati
+  label: Mindfulness
+
+-
+  id: dhamma-vicaya
+  label: Analysis of qualities
+
+-
+  id: pīti
+  label: Rapture
+
+-
+  id: passaddhi
+  label: Serenity
+
+- 
+  id: saṃvega
+  label: Urgency
+  
+  comment:
+    - the oppressive sense of shock, dismay, and alienation that comes with realizing the futility and meaninglessness of life as it's normally lived;
+    - a chastening sense of one's own complacency and foolishness in having let oneself live so blindly;
+    - an anxious sense of urgency in trying to find a way out of the meaningless cycle.
+
+-
+  id: pasada
+  label:  Clarity
+  comment: clarity and serene confidence
